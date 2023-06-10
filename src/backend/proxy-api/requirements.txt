@@ -1,0 +1,8 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+# Google stuff I guess
+google-api-core==2.8.2
+google-api-python-client==2.55.0
+google-auth==2.9.1
+google-auth-httplib2==0.1.0
+googleapis-common-protos==1.56.4
